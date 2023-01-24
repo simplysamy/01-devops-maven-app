@@ -1,1 +1,1 @@
-# 02-devops-maven-app
+# 01-devops-maven-app
